@@ -1,0 +1,4 @@
+baseURL = "https://music-notedoof.vercel.app"
+languageCode = "en-us"
+title = "Music Notes Examples"
+theme = "hugo-theme-minos"
